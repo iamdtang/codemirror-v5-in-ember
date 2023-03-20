@@ -68,5 +68,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "codemirror": "^5.65.12"
   }
 }
